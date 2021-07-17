@@ -5,14 +5,22 @@ The purpose of this analysis is to help a key investor better understand Hawaii 
 
 ## Results
 
-Fig. 1 and 2 show the summary statistics table for June and December respectively. 
+**Fig. 1 and 2** show the summary statistics table for June and December respectively. 
 
-- Average recorded temperature in June is about 4 degrees F more than the average temperature in December, suggesting similar temperatures between two extreme seasons.
-- The minimum temperature recorded in December is 8 degrees F lower than the minimum recorded temperature in June suggesting a greater range of potential temperatures in December. 
-- The maximum temperatures between June and December are similar, providing futher evidence of similar temperatures between both seasons. 
+**Fig.1** 
+
+<img width="153" alt="june_temps" src="https://user-images.githubusercontent.com/45336910/126021521-0a925396-a2c9-4994-bb9a-86d8a76f6e28.png">
+
+**Fig. 2**
+
+<img width="177" alt="december_temps" src="https://user-images.githubusercontent.com/45336910/126021522-8cbe7209-953b-4534-a10f-90365ea49514.png">
+
+* Average recorded temperature in June is about 4 degrees F more than the average temperature in December, suggesting similar temperatures between two extreme seasons.
+* The minimum temperature recorded in December is 8 degrees F lower than the minimum recorded temperature in June suggesting a greater range of potential temperatures in December. 
+* The maximum temperatures between June and December are similar, providing futher evidence of similar temperatures between both seasons. 
 
 ## Summary
 Overall, the weather in June and December are similar, though the range of temperatures in December can be slightly more varied (specifically with lower temperatures). Therefore, it does not seem like weather would affect the sustainability of a surf shop, though additional queries listed below for analysis would be helpful. 
-- precipitation difference to determine rain levels, which could affect surfing conditions
-- wind conditions, which could also affect surfing conditions
-- filter results by the stations closest to where the shop would be located and where major surfing excursions take place to gauge the most relevant weather conditions
+* precipitation difference to determine rain levels, which could affect surfing conditions
+* wind conditions, which could also affect surfing conditions
+* filter results by the stations closest to where the shop would be located and where major surfing excursions take place to gauge the most relevant weather conditions
