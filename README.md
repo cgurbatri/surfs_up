@@ -1,7 +1,7 @@
 # Surfs Up
 
 ## Project Overview
-The purpose of this analysis is to help a key investor better understand Hawaii weather temperatures and their fluctuations throughout the year. This will help determine if his investment in a surf shop would be sustainable throughout the entire year or if it would be affected by weather. Specifically, this analysis looks at the temperature for June and Decemeber. Temperature data is gathered through queries in the hawaii.sqlite dataset. The queries are then stored in a list and then converted into a dataframe where summary statistics can be easily determined. 
+The purpose of this analysis is to help a key investor better understand Hawaii weather temperatures and its fluctuations throughout the year. This will help determine if his investment in a surf shop would be sustainable throughout the entire year or if it would be affected by weather. Specifically, this analysis looks at the temperature for June and Decemeber. Temperature data is gathered through queries in the hawaii.sqlite dataset. The queries are then stored in a list and then converted into a dataframe where summary statistics can be easily determined. 
 
 ## Results
 
